@@ -1,0 +1,5 @@
+"C:\Programy\CLion\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Programy/MinGw/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/Programy/MinGw/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/Programy/MinGw/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" C:\Users\krajz\CLionProjects\SFMLTest
+-- Found SFML 2.5.1 in C:/Program Files (x86)/SFML/lib/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/krajz/CLionProjects/SFMLTest/cmake-build-debug

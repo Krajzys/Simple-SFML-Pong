@@ -1,0 +1,3 @@
+"C:\Programy\CLion\CLion 2018.3.3\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\SFML_TEST.dir/objects.a
+D:\Programy\MinGw\bin\ar.exe cr CMakeFiles\SFML_TEST.dir/objects.a @CMakeFiles\SFML_TEST.dir\objects1.rsp
+D:\Programy\MinGw\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\SFML_TEST.dir/objects.a -Wl,--no-whole-archive  -o SFML_TEST.exe -Wl,--out-implib,libSFML_TEST.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SFML_TEST.dir\linklibs.rsp
